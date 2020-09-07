@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=PrintPoem
+comment0.text=The\ following\ is\ a\ program\ which\ types\ out\ a\ poem\ center\ aligned\ over\ a\ field\ of\ 50\ spaces\r\n\ Edit\ the\ following\ code\ to\ print\ it\ so\ that\ the\ lines\ are\ staggered\ such\ that\ the\ \r\n\ first\ line\ is\ left\ aligned,\ the\ middle\ is\ center\ aligned,\ the\ third\ is\ right\ aligned\ \r\n\ and\ then\ the\ pattern\ \ repeats.\ \r\n\r\n\ example\:\ \r\n\r\n\ Line\ 1\r\n\ \ \ \ \ \ Line\ 2\r\n\ \ \ \ \ \ \ \ \ \ \ \ Line\ 3\r\n\ Line\ 4\r\n\ \ \ \ \ \ Line\ 5\r\n\ \ \ \ \ \ \ \ \ \ \ \ Line\ 6\r\n\ ...\r\n\r\n
+comment1.params=
+comment1.target=PrintPoem()
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+comment3.params=
+comment3.target=void\ printVerse()
+comment4.params=num
+comment4.target=java.lang.String\ getLine(int)
+comment5.params=text
+comment5.target=int\ numSpaces(java.lang.String)
+numComments=6

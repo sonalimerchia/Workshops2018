@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=PassAdder
+comment1.params=
+comment1.target=PassAdder()
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+comment3.params=
+comment3.target=void\ start()
+comment4.params=num
+comment4.target=void\ makeDouble(int)
+comment5.params=num
+comment5.target=void\ increment(double)
+comment6.params=num
+comment6.target=boolean\ divide(double)
+numComments=7
